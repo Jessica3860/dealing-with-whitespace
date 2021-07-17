@@ -1,1 +1,33 @@
+/* ------------- =General -------------- */
+html {
+  box-sizing: border-box;
+}
 
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Crimson Text", serif;
+  line-height: 1.3;
+  padding-left: 1rem;
+  padding-right: 1rem
+}
+
+/* ------------- =Masthead -------------- */
+
+h1 {
+  color: #222;
+  font-family: "Crimson Text", serif;
+  font-style: regular;
+  font-size: 1.5rem;
+}
+
+header p {
+  color: #222;
+  font-family: "Crimson Text", serif;
+  font-style: italic;
+  font-size: 1.125rem;
+}
+
+/* ------------- =Typography -------------- */
